@@ -10,7 +10,7 @@ import java.util.Scanner;
         System.out.print("Matematik Notunuz:");
          mat = inp.nextInt();
 
-        System.out.print("Fizin notunuz:");
+        System.out.print("Fizik notunuz:");
         fizik = inp.nextInt();
 
         System.out.print("Kimya Notunuz:");
